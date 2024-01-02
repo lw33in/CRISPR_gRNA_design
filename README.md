@@ -22,11 +22,8 @@
 
 <p align="center">     
 <img width="551" alt="image" src="https://github.com/stephniw/CRISPR_gRNA_design/assets/120678930/35dab83f-bb30-4b76-b25e-d84cddedaf87">
-</p>
-
-Referece: W. Ni, A. A. Perez, S. Schreiner, C. M. Nicolet, and P. J. Farnham. Characterization of the ZFX family of transcription factors that bind downstream of the start site of CpG island promoters. Nucleic Acids Res, 2020. doi: 10.1093/nar/gkaa384.
-
-<p align="center">
 <img width="540" alt="image" src="https://github.com/stephniw/CRISPR_gRNA_design/assets/120678930/7821ed7b-d54c-4bf4-b9c9-9947841d73c3">
 <img width="540" alt="image" src="https://github.com/stephniw/CRISPR_gRNA_design/assets/120678930/3037e834-c7a8-4f39-9aac-3b1efb994615">
 </p>
+
+Referece: W. Ni, A. A. Perez, S. Schreiner, C. M. Nicolet, and P. J. Farnham. Characterization of the ZFX family of transcription factors that bind downstream of the start site of CpG island promoters. Nucleic Acids Res, 2020. doi: 10.1093/nar/gkaa384.
